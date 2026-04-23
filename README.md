@@ -2,12 +2,12 @@
 Alessio Rella's CMPSC 132 Final Project:
 This is a 2 Player Tic Tac Toe game that is played in the terminal. Players take turns playing a symbol in a 3x3 grid. The game ends when one player connects 3 in a row or the board is filled without a winner (draw).
 
-Extra Features:
+EXTRA FEATURES:
 - Adjustable symbols
 - Scoreboard
 - Reversible turn order
 
-DATA STRUCTURES USEDl
+DATA STRUCTURES USED:
 - Dictionaries:
      - Board state
 - Lists:
